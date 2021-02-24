@@ -6,11 +6,11 @@ const socket = require('socket.io')
 const io = socket(server)
 const username = require('username-generator')
 const path = require('path')
-// const { AwakeHeroku } = require('awake-heroku');
+const { AwakeHeroku } = require('awake-heroku');
 
-// AwakeHeroku.add({
-//     url: "https://cuckooapp.herokuapp.com"
-// })
+AwakeHeroku.add({
+    url: "https://icastfy.herokuapp.com/"
+})
 
 app.use(express.static('./client/build'));
 
