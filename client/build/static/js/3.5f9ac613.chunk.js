@@ -1,0 +1,2 @@
+(this.webpackJsonpclient=this.webpackJsonpclient||[]).push([[3],{133:function(e,t,a){},134:function(e,t,a){"use strict";a.r(t);var n=a(0),c=a.n(n);a(61),a(133);t.default=function(){return c.a.createElement("div",{className:"watermark"},c.a.createElement("span",{className:"logoText"},"powerd by RICHIEFLICKER"))}}}]);
+//# sourceMappingURL=3.5f9ac613.chunk.js.map
